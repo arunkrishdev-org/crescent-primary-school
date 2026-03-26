@@ -1,0 +1,7 @@
+{
+  "name": "Crescent Nursery and Primary School",
+  "description": "Official website for Crescent Nursery and Primary School, Thanjavur. Dedicated to quality education and moral values for 8 years.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
