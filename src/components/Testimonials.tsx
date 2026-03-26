@@ -81,10 +81,9 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <img 
-                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_Color_Icon.svg/1200px-Google_Color_Icon.svg.png" 
-                  alt="G" 
+                  src="https://www.google.com/favicon.ico" 
+                  alt="Google" 
                   className="w-4 h-4"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="flex text-yellow-400 mb-4">
