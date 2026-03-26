@@ -66,7 +66,7 @@ export default function Hero() {
             >
               <div className="relative z-10 rounded-[4rem] overflow-hidden shadow-2xl aspect-[4/5]">
                 <img 
-                  src="/Crescent-School-pic-1.jpg" 
+                  src="Crescent-School-pic-1.jpg" 
                   alt="Students Learning" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
