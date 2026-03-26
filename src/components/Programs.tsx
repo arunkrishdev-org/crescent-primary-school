@@ -14,7 +14,7 @@ const programs = [
     title: "LKG & UKG",
     age: "3.5 - 5.5 Years",
     description: "Building strong foundations in literacy, numeracy, and creative expression through activities.",
-    image: "../public/Crescent-School-pic-2.jpg",
+    image: "Crescent-School-pic-2.jpg",
     icon: School
   },
   {
