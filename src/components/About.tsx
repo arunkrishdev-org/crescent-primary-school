@@ -16,7 +16,7 @@ export default function About() {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="../public/Crescent-School-pic-4.jpg"
+                src="Crescent-School-pic-4.jpg"
                 alt="School Building"
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"
