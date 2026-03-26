@@ -2,12 +2,12 @@ import React from 'react';
 import { motion } from 'motion/react';
 
 const images = [
-  { src: "../public/Crescent-School-pic-5.jpg", title: "Creative Arts" },
-  { src: "../public/Crescent-School-pic-2.jpg", title: "Smart Classroom" },
-  { src: "../public/Crescent-School-pic-3.jpg", title: "Outdoor Play" },
-  { src: "../public/Crescent-School-pic-4.jpg", title: "Teachers Day" },
-  { src: "../public/Crescent-School-pic-1.jpg", title: "Extracurricular" },
-  { src: "../public/Crescent-School-pic-6.jpg", title: "STEM Workshop" },
+  { src: "Crescent-School-pic-5.jpg", title: "Creative Arts" },
+  { src: "Crescent-School-pic-2.jpg", title: "Smart Classroom" },
+  { src: "Crescent-School-pic-3.jpg", title: "Outdoor Play" },
+  { src: "Crescent-School-pic-4.jpg", title: "Teachers Day" },
+  { src: "Crescent-School-pic-1.jpg", title: "Extracurricular" },
+  { src: "Crescent-School-pic-6.jpg", title: "STEM Workshop" },
 ];
 
 export default function Gallery() {
